@@ -1,0 +1,145 @@
+1.	Which tool you are comfortable with and why?
+2.	How to filter particular row in data table in UiPath?
+3.	Major challenges faced in your project? How did you resolve it?
+4.	How will you automate with the application which runs in background?
+5.	Difference between SimulateType and SendWindowsMessage property?
+6.	Difference between sequence, Flowchart and state machine?
+7.	Can we loop back in sequence workflow? If yes then how.
+8.	Modularization (Dividing into smaller parts of a process) of a process.
+9.	Describe Exceptions handling.
+-------------------
+1. Brief about my last projects.
+2.       Which tool you are comfortable with and why?
+3.       Major differences between tools?
+4.       Does Recording makes difference in tools and why?
+5.       How comfortable you are in C#, .net coding
+6.       Have you worked on LINQ and Entity Framework?
+7.       Did you use any scripts or codes in your project?
+8.       How to filter data table to remove empty rows in UiPath?
+9.       How to format name in UiPath e.g. (SURAJ to Suraj)?
+10.   What are the major exceptions we need to take into considerations while development?
+-----------------
+1. How can u write a data into a note pad by using variable?
+
+2. What are the commands we can use in ocr?
+
+3. How can u work on error handling?
+
+4. What is the use of image reorganization?
+
+5. How can u connect to the database?
+
+6. What the extension for database?
+
+7. What are the main commands we use to work with ocr?
+
+8. How can u display second highest salary person details based on the id using 2 tables?
+
+9. Explain about terminal emulator?
+
+10. What are the challenges u have faced while developing RPA?
+
+11. How can u encrypt the Data?
+
+12. What r the commands we can perform in object cloning?
+
+13. What’s your current project and explain about it?
+
+14. What are the lists of tools for robotic process Automation? 
+
+15. What is special about RPA tools?
+
+16. Can you draw calculation, Decision, Page, Action symbols?
+
+17. Can you explain how can you open a login page?
+
+18. What are the commands you are using for login page?
+
+19. Can you explain work queues?
+
+20. Can you draw block, exception, recovery, resume symbols?
+
+21. Can you draw anchor tag?
+
+22. How can you create work queues?
+
+23. Can you explain how action tag can be used?
+
+24. Difference between IR and If? What is use of IR? 
+
+And how and where you used in your project explain?
+
+27. What are Excel commands and its sub commands?
+
+28. What is the basics use of excel command? Explain technically.
+
+29. What is the diff between email automation and send mail?
+
+30. Tell me port no you if you used on your project?
+
+31. Domxpurpose, how and when we will used?
+
+32. If you are not using then what will be error?
+
+33. Tell me about tag, caption, path, value? (According to your project).
+
+34. Given scenarios based on excel and web manages control and object cloning basically.
+
+35. Different between patterns based data & regular data.
+
+36. Questions based on scenarios:-
+: - string arrangements.
+: - form fill up, mapping.
+: - fill data from web page to excel.
+: - excel to web page.
+: - find out number of string and reverse order.
+: - based on sorting question.
+
+37. Difference between manage web control, window control & object cloning.
+
+38. Terminal emulator if u used in project?
+
+39. About repository & control room process.
+
+40. Basics diff keystrokes, mouse click? &where we can use?
+
+41. Version of tool? What is the new thing, in comparison to previous version?
+
+42. About production version explain?
+
+43. can we connect excel file as a database If yes...Then how? If no then why not?
+
+44. Difference between Delay and wait?
+
+45. What is Auto Login?
+
+46. How to read the Email
+massages by using Email Automation?
+
+47. How to send an Email?
+
+48. How will you read the data from Excel?
+
+49. What are the system parameters for EXCEL / XML / CSV?
+----------------
+1.	Brief about my current project
+2.	Brief about my last project
+3.	Tools used – In respect to Automation
+4.	If 3 is Yes, then brief about the tools
+5.	Most challenging part that I faced while scraping data in Automation
+6.	If any of the activity is not performed in the automation then how will you diagnose it.
+7.	If worked on Microsoft technology stack then what is Entity framework, explain.
+8.	What is LINQ?
+9.	What is the difference between web services and micro-services?
+10.	How will you reverse a string?
+11.	Two methods on how will you swap two numbers without using a temp variable?
+12.	Have you used UIPath?
+13.	If there is any other tool that you have used then what are the similarities and differences?
+14.	Willing to devote extra efforts in case the situation arises?
+15.	Have you worked with American clients before?
+16. How will you debug in UiPath?
+17. How will you filter excel data in UiPath?
+18. How can you handle element not found exception in UiPath?
+
+
+-------------
